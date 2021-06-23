@@ -1,2 +1,0 @@
-# pythonbot
-monday is hehe
